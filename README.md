@@ -1,2 +1,2 @@
 # PythonProjects
-Blened Sculpt Exprorter for SL
+Blender plugin sculpt exprorter for SL
